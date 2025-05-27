@@ -1,4 +1,10 @@
 ## Hi there 👋
+git init
+git remote add origin https://github.com/[tên của bạn]/[tên repo].git
+git add .
+git commit -m "First commit"
+git push -u origin master
+
 
 <!--
 **l74777/l74777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
